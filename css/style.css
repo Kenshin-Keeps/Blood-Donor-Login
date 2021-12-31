@@ -104,6 +104,10 @@ hr {
   text-align: center;
   margin: auto auto;
 }
+.social-icon {
+  /* margin: 0 15px; */
+  padding: 0 15px;
+}
 .copyright p {
   text-align: center;
   margin-top: 2rem;
